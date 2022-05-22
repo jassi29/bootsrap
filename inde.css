@@ -1,0 +1,41 @@
+body{
+    background-image:url(logo/9225.jpg);
+    
+}
+
+.navbar.navbar-inverse.bg-dark.navbar-dark{
+    background-color: black;
+    height: 79px;
+   
+}
+ .navbar-brand>div>img{
+    margin-top: -13px;
+    max-width: 69px;
+    margin-left: 2%;
+
+}
+.col-sm-4{
+    background-color: pink;
+    padding:40px 0px;
+    height:314px;
+}
+.col-sm-8{
+    background-color: cyan;
+    padding:40px 0px;
+    height:314px;
+
+}
+.col-sm-3.MenuItem{
+    height:240px;
+}
+.col-sm-6.videoItem{
+    height:240px;
+}
+
+
+
+
+.container-fluid.footer{
+    background-color:lightgray;
+    padding:40px 0px;
+}
